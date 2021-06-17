@@ -1,12 +1,5 @@
 <?php
 
-<<<<<<< HEAD
-    function error(){
-        return "welcome to 1st page"
-    }
-
-}
-=======
 class goo
 {
 
@@ -24,4 +17,3 @@ class goo
 
 }
 
->>>>>>> branchA

@@ -10,3 +10,9 @@ class having(){
     return "i have a pen"
 
 }
+
+class done(){
+
+    return "i have done my work"
+
+}

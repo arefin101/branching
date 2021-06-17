@@ -1,18 +1,19 @@
 <?php
-class goo(){
 
-    return "welcome to 1st page"
+class goo
+{
+
+    function having(){
+
+        return "i have a pen";
+    
+    }
+    
+    function done(){
+    
+        return "i have done my work";
+    
+    }
 
 }
 
-class having(){
-
-    return "i have a pen"
-
-}
-
-class done(){
-
-    return "i have done my work"
-
-}
